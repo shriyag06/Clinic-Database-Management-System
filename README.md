@@ -5,5 +5,7 @@ The Clinic Database Management System is designed to streamline and optimize adm
 
 # Technologies Used
 Database Management: Azure Data Studio
+
 Query Language: SQL
+
 User Interface: Microsoft Power Apps
